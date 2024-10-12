@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Crud_Dapper",
+    "\\Crud_Dapper\\Controllers",
+    "\\Crud_Dapper\\Service",
+    "\\Crud_Dapper\\Service\\LivroService"
+  ],
+  "SelectedNode": "\\Crud_Dapper\\Service\\LivroService\\LivroService.cs",
+  "PreviewInSolutionExplorer": false
+}

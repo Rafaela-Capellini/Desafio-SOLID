@@ -1,0 +1,78 @@
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\appsettings.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.exe
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.deps.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.runtimeconfig.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.pdb
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Dapper.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.csproj.AssemblyReference.cache
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.AssemblyInfoInputs.cache
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.AssemblyInfo.cs
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.Crud_Dapper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.build.Crud_Dapper.props
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Crud_Dapper.props
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Crud_Dapper.props
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\scopedcss\bundle\Crud_Dapper.styles.css
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.csproj.CopyComplete
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\refint\Crud_Dapper.dll
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.pdb
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.genruntimeconfig.cache
+C:\Users\Mateu\Área de Trabalho\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\ref\Crud_Dapper.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\appsettings.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.exe
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.deps.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.runtimeconfig.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Crud_Dapper.pdb
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Dapper.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.csproj.AssemblyReference.cache
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.AssemblyInfoInputs.cache
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.AssemblyInfo.cs
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.Crud_Dapper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.build.Crud_Dapper.props
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Crud_Dapper.props
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Crud_Dapper.props
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\scopedcss\bundle\Crud_Dapper.styles.css
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.csproj.CopyComplete
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\refint\Crud_Dapper.dll
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.pdb
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\Crud_Dapper.genruntimeconfig.cache
+C:\Users\Mateu\source\repos\Crud_Dapper-master\Crud_Dapper\obj\Debug\net6.0\ref\Crud_Dapper.dll
